@@ -2,6 +2,8 @@
 Transformer Implement with Pytorch
 
 # Refrecences
+>https://arxiv.org/abs/1706.03762
+>
 >https://www.bilibili.com/video/BV1pu411o7BE
 >
 >https://github.com/hyunwoongko/transformer
